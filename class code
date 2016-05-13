@@ -1,0 +1,108 @@
+Enter file contents herepublic class App
+{
+	public void login(String id, String pw)
+	{
+		
+	}
+	public void view_Homework()
+	{
+		
+	}
+	public void view_Attendence()
+	{
+		
+	}
+	public void view_Event()
+	{
+		
+	}
+	public boolean login2(String id,String pw)
+	{
+		return false;
+	}
+	public void view_Notice()
+	{
+		
+	}
+}
+
+class Server
+{
+	public boolean check(String id, String pw)
+	{
+		return false;
+		
+	}
+	public void add_Homework()
+	{
+		
+	}
+	public void add_Notice()
+	{
+		
+	}
+	public void get_Homework()
+	{
+		
+	}
+	public void get_Notice()
+	{
+		
+	}
+}
+
+class Homework
+{
+	public void create_Homework()
+	{
+		
+	}
+	public void check_Homework()
+	{
+		
+	}
+}
+
+class Attendence
+{
+	public void check_Attendence()
+	{
+		
+	}
+	public void statistics_Attendence()
+	{
+		
+	}
+	public void result_Attendence()
+	{
+		
+	}
+}
+
+class Notice
+{
+	public void create_Notice()
+	{
+		
+	}
+	public void check_Notice()
+	{
+		
+	}
+}
+
+class Event
+{
+	public void add_Event()
+	{
+		
+	}
+}
+
+class Push
+{
+	public void push()
+	{
+		
+	}
+}
